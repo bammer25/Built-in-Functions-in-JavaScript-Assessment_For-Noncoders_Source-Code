@@ -26,10 +26,6 @@ function updatePlayList(playlist){
 
     // Traverse over the playlist.
 
-    playlist.forEach(video => {
-        console.log(video); 
-
-    });
     const playlist = ['Sample 1 Video','Sample  Video'];
     updatePlayList(playlist);
     
